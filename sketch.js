@@ -4,10 +4,10 @@ var player, shooterImg, shooter_shooting;
 
 function preload(){
   
-  shooterImg = loadImage("assets/shooter_2.png")
-  shooter_shooting = loadImage("assets/shooter_3.png")
+  shooterImg = loadImage("shooter_2.png")
+  shooter_shooting = loadImage("shooter_3.png")
 
-  bgImg = loadImage("assets/bg.jpeg")
+  bgImg = loadImage("https://github.com/vishikagurbani/Zombie-Shooter-stage-1.gitbg.jpeg")
 
 }
 
