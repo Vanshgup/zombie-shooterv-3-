@@ -7,7 +7,7 @@ function preload(){
   shooterImg = loadImage("shooter_2.png")
   shooter_shooting = loadImage("shooter_3.png")
 
-  bgImg = loadImage("https://github.com/vishikagurbani/Zombie-Shooter-stage-1.gitbg.jpeg")
+  bgImg = loadImage("bg.jpeg")
 
 }
 
